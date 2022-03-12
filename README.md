@@ -3,7 +3,6 @@
 ### About Me
 
 📆 23 years old <br>
-👨🏻‍🎓 &nbsp;M.Sc. Applied Computer Science / Software Engineering <br>
 📍 Living in Hamburg <br>
 💻 Full-stack developer <br>
 🎧 Music enthusiast
