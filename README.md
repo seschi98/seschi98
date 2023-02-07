@@ -2,7 +2,7 @@
 
 ### About Me
 
-📆 23 years old <br>
+📆 24 years old <br>
 📍 Living in Hamburg <br>
 💻 Full-stack developer <br>
 🎧 Music enthusiast
